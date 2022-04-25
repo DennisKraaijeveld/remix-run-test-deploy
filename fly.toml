@@ -1,4 +1,4 @@
-app = "my-remix-app-test-bf5d"
+app = "indie-stack-template-dennistest"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
